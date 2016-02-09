@@ -23,4 +23,4 @@ Imports:
     gtable
 LinkingTo: Rcpp
 RoxygenNote: 5.0.1
-Depends: ggplot2 (>= 2.0.0)
+Depends: ggplot2 (>= 2.0.0.9000)
